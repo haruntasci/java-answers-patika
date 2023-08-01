@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GENERAL_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java-101/ATM/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/AreaOfCircle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/ArrayFindNearestNumbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/BodyMassIndexCalculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/CalculateArea/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/CalculatingGradePointAverage/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/CalculatingKDV/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/Calculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/ChineseZodiac/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/Combination/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/DiamondPattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/Emloyee/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/EmployeeApp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/ExponentiationWithLoops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/FibonacciSeries/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/FindRepeatingEvenNumbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/FlightTicketPriceCalculation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/Frequency/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/GreengroceryCashierProgram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/GuessTheNumber/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/HarmonicMean/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/HarmonicSeriesCalculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/HoroscopeFinderProgram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/IsPalindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/IsStringPalindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/LoopsAverage/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/LoopsFourAndFive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/LoopsOddNumber/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/MatrixTranspose/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/MultidimensionalArrayWithLetterB/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/PerfectNumber/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/Recursive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/RecursivePattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/ReversePyramid/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/SortLargestToSmallest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/StudentInfoSystem/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/SumOfDigits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/Taximeter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/TemperatureAndEvent/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-101/UserLogin/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
