@@ -43,6 +43,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java-101/Taximeter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-101/TemperatureAndEvent/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-101/UserLogin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-102/ThreadsRace/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
